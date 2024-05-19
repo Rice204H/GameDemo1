@@ -19,3 +19,9 @@ Quy tắc kết thúc trò chơi:
    - Trò chơi kết thúc khi tất cả các ô không chứa bom được mở hoặc tất cả các bom được gỡ bỏ.
 
 Trò chơi có một yếu tố chiến thuật, yêu cầu người chơi suy luận và quản lý tình huống để tránh bom và tìm ra tất cả các ô trống.
+Hướng dẫn cách chơi:
+- Dùng phím SPACE để mở các ô (dò mìn)
+- Dùng phím BACKSPACE để đặt cờ
+- Dùng các phím di chuyển để đặt con trỏ vào vị trí cần mở
+
+Tham khảo nguồn bởi Chat GPT, Wikipedia, Google, ...
