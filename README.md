@@ -24,4 +24,4 @@ Hướng dẫn cách chơi:
 - Dùng phím BACKSPACE để đặt cờ
 - Dùng các phím di chuyển để đặt con trỏ vào vị trí cần mở
 
-Tham khảo nguồn bởi Chat GPT, Wikipedia, Google, ...
+Tham khảo nguồn bởi Chat GPT, Wikipedia, Google, https://minesweeper.online/
